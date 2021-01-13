@@ -2,4 +2,4 @@
 
 ### Contact me
 
-mailto: Arsalanfallahpour@outlook.com or callme: +989391352913
+mailto: Arsalanfallahpour@outlook.com or callto: +989391352913
