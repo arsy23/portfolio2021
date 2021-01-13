@@ -1,6 +1,5 @@
 ## Welcome to my portfolio 2021
 
-### Support or Contact
-mailto: Arsalanfallahpour@outlook.com
+### Contact me
 
-callme: +989391352913
+mailto: Arsalanfallahpour@outlook.com or callme: +989391352913
