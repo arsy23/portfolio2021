@@ -9,9 +9,9 @@
 
 [![NuGet](https://img.shields.io/nuget/v/dotnetcenter.core.entities?color=%2300BBFF&label=nuget%20DotnetCenter.Core.Entities&logoColor=%23FFF&style=for-the-badge)](https://www.nuget.org/packages/DotNetCenter.Core.Entities/)
 
-[![NuGet](https://img.shields.io/nuget/v/dotnetcenter.core.errorhandlers?color=%2300BBFF&label=nuget%20DotnetCenter.Core.ErrorHanders&logoColor=%23FFF&style=for-the-badge)](https://www.nuget.org/packages/DotNetCenter.Core.ErrorHanders/)
+[![NuGet](https://img.shields.io/nuget/v/dotnetcenter.core.errorhandlers?color=%2300BBFF&label=nuget%20DotnetCenter.Core.ErrorHandlers&logoColor=%23FFF&style=for-the-badge)](https://www.nuget.org/packages/DotNetCenter.Core.ErrorHandlers/)
 
-[![NuGet](https://img.shields.io/nuget/v/dotnetcenter.core.exceptionhandlers?color=%2300BBFF&label=nuget%20DotnetCenter.Core.ExceptionHanders&logoColor=%23FFF&style=for-the-badge)](https://www.nuget.org/packages/DotNetCenter.Core.ExceptionHanders/)
+[![NuGet](https://img.shields.io/nuget/v/dotnetcenter.core.exceptionhandlers?color=%2300BBFF&label=nuget%20DotnetCenter.Core.ExceptionHandlers&logoColor=%23FFF&style=for-the-badge)](https://www.nuget.org/packages/DotNetCenter.Core.ExceptionHandlers/)
 
 
 ### Contact me
