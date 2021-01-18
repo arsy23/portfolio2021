@@ -19,7 +19,7 @@ Develop better applications in enjoyable manner.
 # <a href="https://github.com/arsalanfallahpour/UiCenter/">UiCenter</a>
 UiCenter helps you to create more complicated ui-designs. Maintain Easy!
 
-![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/@arsalanfallahpour/uicenter@latest?color=%2300BBFF&label=Nuget%20UiCenter%20&logoColor=%23FFF&style=for-the-badge)
+![Node CI](https://img.shields.io/github/package-json/v/arsalanfallahpour/uicenter?color=%2300BBFF&label=Nuget%20UiCenter%20&logoColor=%23FFF&style=for-the-badge)
 
 
 ### Contact me
