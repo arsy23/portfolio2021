@@ -6,6 +6,7 @@ and share with other developers.
 
 # <a href="https://github.com/arsalanfallahpour/DotNetCenter/">DotNetCenter</a>
 Open Source Framework FOR .Net Technologies
+>  [![DotNetCenter.Core.Entities on fuget.org](https://www.fuget.org/packages/DotNetCenter.Core.Entities/badge.svg)](https://www.fuget.org/packages/DotNetCenter.Core.Entities)
 
 <span style="text-align:center;display:block;width:100%;">Increase your Development Productivity</span>
 
